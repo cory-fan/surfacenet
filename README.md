@@ -1,5 +1,5 @@
 # SurfaceNet: Leveraging Aerial LIDAR Point Clouds for Post-Earthquake Building Damage Assessment
-Submitted to the Journal of High School Science
+Published at the Journal of High School Science
 
 Datasets available at https://drive.google.com/drive/folders/1WSDlNBdTIgV4GCpjaAntsqGGIKLzBI0M?usp=sharing.
 
